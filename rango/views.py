@@ -1,3 +1,4 @@
+#Estas son las vistas del proyecto
 from django.shortcuts import render
 from django.http import HttpResponse
 
